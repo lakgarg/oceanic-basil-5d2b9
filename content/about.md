@@ -1,29 +1,19 @@
-+++
-title = "About Hugo"
-slug = "about"
-+++
+# About Me
+Hi There 👋
 
-Hugo is a static site engine written in Go.
+I'm Lakshay Garg, 18 Year Old, Student @ Delhi Technological University.
+
+I've been doing software since I was a child, I love to learn about how things work and simplify things with technology. I'm a Maintainer and Contributor to [Android Open Source Porject (AOSP)](https://source.android.com), part of Organizations such as [PixelExperience ROM](https://www.pixelexperience.org) & [AOSPExtended ROM](https://www.aospextended.com), also I'm a Recognized Developer @ [XDA Developers](https://forum.xda-developers.com/m/lakshay18.9537214)
+
+I have other interests in Rocket Science and Space and will pursue a career in Rocket Industry.
+### Current Status: Building a Model Rocket! 🚀
+
+I love to learn new technologies and languages and would love to share time with developers communities and events.
+Consistently working to make this Profile better!
+#NeverStopLearning!
 
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+# Know more about me 
+   - [Check My personal Website](https://www.lakshay.wtf)
+   - [LinkedIn](https://www.linkedin.com/in/lakshay-garg-5a8567154/)
+   - [Find Me on Beneath](https://www.beneath.cf/)
