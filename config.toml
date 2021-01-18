@@ -22,7 +22,7 @@ dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = true
 hideCopyright = false
-since = 2_019
+since = 2019
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 rtl = false
 colorScheme = "auto"
@@ -72,18 +72,16 @@ customJS = [ ]
   url = "https://www.linkedin.com/in/lakshay-garg-5a8567154/"
 
   [[params.social]]
-  name = "Medium"
+  name = "Instagram"
   icon = "fa fa-medium"
   weight = 5
-  url = "https://medium.com/@lakgarg"
-
+  url = "https://instagram.com/lak.garg"
+  
   [[params.social]]
-  name = "RSS"
-  icon = "fa fa-rss"
+  name = "Telegram"
+  icon = "fa fa-medium"
   weight = 6
-  url = "https://myhugosite.com/index.xml"
-  rel = "alternate"
-  type = "application/rss+xml"
+  url = "https://t.me/planckton"
 
 [taxonomies]
 category = "categories"
@@ -110,6 +108,6 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Downloads"
 weight = 5
-url = "contact/"
+url = "http://dl.lakshay.wtf/"
