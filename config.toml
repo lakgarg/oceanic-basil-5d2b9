@@ -73,13 +73,13 @@ customJS = [ ]
 
   [[params.social]]
   name = "Instagram"
-  icon = "fa fa-medium"
+  icon = "fa fa-instagram"
   weight = 5
   url = "https://instagram.com/lak.garg"
   
   [[params.social]]
   name = "Telegram"
-  icon = "fa fa-medium"
+  icon = "fa fa-telegram"
   weight = 6
   url = "https://t.me/planckton"
 
