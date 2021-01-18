@@ -1,0 +1,146 @@
+baseURL = ""
+title = "johndoe"
+theme = "coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+disqusShortname = "yourdiscussshortname"
+themesDir = "themes"
+publishDir = "public"
+
+[params]
+author = "John Doe"
+description = "John Doe's personal website"
+keywords = "blog,developer,personal"
+info = "Full Stack DevOps and Magician"
+avatarURL = "images/avatar.jpg"
+footerContent = "Enter a text here."
+dateFormat = "January 2, 2006"
+hideFooter = false
+hideCredits = false
+hideCopyright = false
+since = 2_019
+commit = "https://github.com/luizdepra/hugo-coder/tree/"
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+enableTwemoji = true
+customCSS = [ ]
+customSCSS = [ ]
+customJS = [ ]
+
+  [params.fathomAnalytics]
+  siteID = "ABCDE"
+  serverURL = "analytics.example.com"
+
+  [params.plausibleAnalytics]
+  domain = "example.com"
+  serverURL = "analytics.example.com"
+
+  [params.goatCounter]
+  code = "code"
+
+  [params.cloudflare]
+  token = "token"
+
+  [[params.social]]
+  name = "Github"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/johndoe/"
+
+  [[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab"
+  weight = 2
+  url = "https://gitlab.com/johndoe/"
+
+  [[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter"
+  weight = 3
+  url = "https://twitter.com/johndoe/"
+
+  [[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 4
+  url = "https://www.linkedin.com/in/johndoe/"
+
+  [[params.social]]
+  name = "Medium"
+  icon = "fa fa-medium"
+  weight = 5
+  url = "https://medium.com/@johndoe"
+
+  [[params.social]]
+  name = "RSS"
+  icon = "fa fa-rss"
+  weight = 6
+  url = "https://myhugosite.com/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[languages.en]
+languageName = "English"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
+
+[languages.pt-br]
+languageName = "Português"
+title = "João Ninguém"
+
+  [languages.pt-br.params]
+  author = "João Ninguém"
+  info = "Full Stack DevOps e Mágico"
+  description = "Sítio pessoal de João Ninguém"
+  keywords = "blog,desenvolvedor,pessoal"
+  footerContent = "Coloque algum texto aqui."
+
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+weight = 1
+url = "about/"
+
+[[languages.pt-br.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.pt-br.menu.main]]
+name = "Projetos"
+weight = 3
+url = "projects/"
+
+[[languages.pt-br.menu.main]]
+name = "Contato"
+weight = 5
+url = "contact/"
