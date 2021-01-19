@@ -10,7 +10,7 @@ html {
 body {
   color: #212121;
   background-color: #FAFAFA;
-  font-family: Merriweather, Georgia, serif;
+  font-family: Lato, Helvetica, sans-serif;
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em; }
