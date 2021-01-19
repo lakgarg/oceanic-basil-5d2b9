@@ -7,7 +7,7 @@ paginate = 20
 pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
-disqusShortname = "disqus"
+disqusShortname = "lakshay-garg"
 themesDir = "themes"
 publishDir = "public"
 
