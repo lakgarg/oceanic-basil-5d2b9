@@ -19,7 +19,7 @@ Contributor and Maintainer-Beryllium(Poco F1) && Bullhead(Nexus 5X) @ pixelexper
 Contributor and Maintainer-Bullhead(Nexus 5X) @ aospextended- an OpenSource Custom Android ROM
 
 # Know more about me 
-   - [Check My personal Website](https://www.lakshay.me)
+   - [Check My personal Website](https://www.lakshay.wtf)
    - [LinkedIn](https://www.linkedin.com/in/lakshay-garg-5a8567154/)
    - [Find Me on Beneath](https://www.beneath.cf/members/lakshay/)
    - [Follow me on twitter!](https://twitter.com/lakshayg18)
