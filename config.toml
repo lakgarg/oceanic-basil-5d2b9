@@ -7,7 +7,7 @@ paginate = 20
 pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "disqus"
 themesDir = "themes"
 publishDir = "public"
 
