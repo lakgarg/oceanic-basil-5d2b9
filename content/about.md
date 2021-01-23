@@ -1,7 +1,7 @@
 # About Me
 Hi There 👋
 
-I'm Lakshay Garg, 18 Year Old, Student @ Delhi Technological University.
+I'm Lakshay Garg, 18 Year Old, Student @ Delhi Technological University (Formerly Delhi College of Engineering DCE).
 
 I've been doing software since I was a child, I love to learn about how things work and simplify things with technology. I'm a Maintainer and Contributor to [Android Open Source Porject (AOSP)](https://source.android.com), part of Organizations such as [PixelExperience ROM](https://www.pixelexperience.org) & [AOSPExtended ROM](https://www.aospextended.com), also I'm a Recognized Developer @ [XDA Developers](https://forum.xda-developers.com/m/lakshay18.9537214)
 
