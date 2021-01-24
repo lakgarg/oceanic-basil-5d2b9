@@ -1,6 +1,6 @@
 +++
 date = "2021-01-23"
-title = "EvolutionX-5.3 11.0 20210116-1952 UNOFFICIAL OFFICIAL Beryllium Build"
+title = "EvolutionX-5.3 11.0 20210116-1952 UNOFFICIAL Beryllium Build"
 description = "Initial Build"
 katex = true
 series = ["EvolutionX", "Beryllium"]
