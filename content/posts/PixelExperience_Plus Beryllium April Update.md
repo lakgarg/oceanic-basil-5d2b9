@@ -12,7 +12,7 @@ series = ["PixelExperience", "Beryllium"]
 * **Feature Update Highlights:**
     * April security patch
     * Fixed the issue of weather information not showing up in “At a glance” on the home screen of Pixel Launcher
-    * Improved Face Unlock. The issue of front camera being occupied should happen less frequently. 
+    * Improved Face Unlock. The issue of IR being occupied should happen less frequently. 
     * Devices will only use dark boot animation from now on
     * Translation updates
     * Performance and stability improvements
