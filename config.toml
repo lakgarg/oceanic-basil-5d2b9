@@ -31,6 +31,7 @@ enableTwemoji = false
 customCSS = [ ]
 customSCSS = [ ]
 customJS = [ ]
+googleAnalytics = "UA-203673741-1"
 
   [params.fathomAnalytics]
   siteID = "ABCDE"
