@@ -24,7 +24,7 @@ series = ["EvolutionX", "Beryllium"]
     * Lockscreen bypass toggle for face unlock is back
     * Many under-the-hood fixes
 
-* **Etude kernel: Op.11 No.2**
+* **Etude kernel:**
     * Linux 4.9.286
     * merged CAF tag LA.UM.9.8.r1-04000-SDM710.0 with fix on cdsp regression
     * DO NOT use a third party kernel without proper support for Pixel thermal hal
