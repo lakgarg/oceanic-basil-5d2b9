@@ -53,4 +53,4 @@ series = ["EvolutionX", "Beryllium"]
 * For google Camera, Use any Camera Mod. Parrot043's and San1ty's Builds Work good with PocoF1, But Anyone can try any mods. Find the Apks here (https://www.celsoazevedo.com/files/android/google-camera/).
 * Gapps, Vendor and firmware are included.
 
-[**Download**](http://dl.lakshay.wtf/ROMs/Beryllium/EvolutionX/) **|** [**Telegram Group**](https://t.me/uoEvoXPocoF1)
+[**Download**](http://dl.lakshaygarg.in/ROMs/Beryllium/EvolutionX) **|** [**Telegram Group**](https://t.me/uoEvoXPocoF1)

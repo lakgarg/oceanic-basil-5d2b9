@@ -51,4 +51,4 @@ series = ["EvolutionX", "Beryllium"]
 
 `File Name: EvolutionX_5.9.3_beryllium-11-20211014-2144-UNOFFICIAL.zip`
 
-[**Download**](http://dl.lakshay.wtf/ROMs/Beryllium/EvolutionX/) **|** [**Telegram Group**](https://t.me/uoEvoXPocoF1)
+[**Download**](http://dl.lakshaygarg.in/ROMs/Beryllium/EvolutionX/) **|** [**Telegram Group**](https://t.me/uoEvoXPocoF1)
