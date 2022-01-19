@@ -11,7 +11,7 @@ series = ["PixelExperience", "Beryllium"]
 ## Changelog:
 * Initial Build
 
-## Flashing Intructions:
+## Flashing Instructions:
 * Download ROM
 * Boot to latest TWRP (V3.6.0_9-0 Official required).
 * Go to Wipe > Advanced Wipe. Check Dalvik, Cache, System, Data & Vendor. Swipe to wipe.
